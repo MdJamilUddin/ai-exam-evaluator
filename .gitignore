@@ -1,1 +1,3 @@
-
+exam_results.db
+__pycache__/
+.streamlit/
