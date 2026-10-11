@@ -4,6 +4,10 @@ import streamlit as st
 import pandas as pd
 from google import genai
 from PIL import Image
+
+# পেজ কনফিগারেশন
+st.set_page_config(
+    page_title="বড় পরিসর - AI খাতা মূল্যায়ন সিস্টেম",
     page_icon="🏫",
     layout="wide"
 )
